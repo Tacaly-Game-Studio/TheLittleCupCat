@@ -1,6 +1,8 @@
 # TheLittleCupCat
 A little cat is in a cup filled with coffee 
 
+![This is an image](https://github.com/Tacaly-Game-Studio/TheLittleCupCat/blob/main/logo_final.jpg)
+
 ## Concept
 A little cat is in a cup filled with coffee due to the cat’s nature of jumping around and destroying stuff. In this game it’s the opposite, where the cat cannot jump or destroy anything. And must make stuff in the café world to survive, the main food supply is coffee/tea for the cat.
 The cat is a “cute” red housecat, in a white cup filled with black coffee. (the colors should be kept simple to avoid any mistakes in production).
